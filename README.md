@@ -75,6 +75,35 @@ El propósito principal de este proyecto es identificar los desafíos en la admi
 ### Mockup:
 - Visualizar y entender los datos de manera más efectiva, facilitando la identificación de oportunidades de mejora y la implementación de estrategias más eficientes para la gestión del inventario de licores.
 - Dar un panorama detallado de cómo va ser el resultado final de la propuesta.
+ ### Extracción transformación y carga de datos (ETL):
+- Validación de Datos Python: Eliminación de inconsistencias y valores atípicos.
+
+### Modelado de datos en DAX:
+- Crear de columnas calculadas. 
+- Definir medidas
+- Gestionar Relaciones 
+
+### Dashboards
+- Insights accionables: Permite visualizar patrones de ventas y compras óptimas que ayuden a mantener un stock de inventario rentable.
+- Incorporar formato personalizado en las visualizaciones como el tema, etiquetas, títulos  y otros elementos de formato para que se requieran
+- Creación de gráficos, tablas, mapas y otros elementos visuales.
+-  Establecer la interactividad, filtros y segmentadores idóneos.
+
+### Modelo de regresión de Random Forest: 
+- Obtener un modelo de predicción que se ajustará con el comportamiento de los datos de la tabla ventas, el cual entiende un comportamiento no lineal y valores atípicos acercándose al comportamiento real de los registros históricos.
+
+## 🚀Conclusiones:
+
+### Los datos pueden revelar patrones clave proporcionando información valiosa para decisiones estratégicas del inventario de licores que permitan:
+ - Determinar los niveles óptimos de inventario para los productos.
+- Identificar oportunidades para reducir las faltantes de existencias y el exceso de inventario.
+- Analizar la rotación de inventario y los costos de almacenamiento para optimizar el capital de trabajo.
+- Agilizar los procesos de adquisición y distribución para mejorar la eficiencia.
+- Desarrollar una estrategia de gestión de inventario sostenible y confiable para el crecimiento futuro.
+
+ <!--Intro end-->
+
+
 
 
 <!--Intro end-->
